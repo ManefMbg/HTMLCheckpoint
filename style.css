@@ -7,6 +7,11 @@ text-decoration: none;
 
 }
 
+
+.nav{
+
+    padding-left: 26rem ;
+}
 .nav a{
     text-decoration: none;
     display: inline;
@@ -28,7 +33,26 @@ html{
     
 }
 
-.Resume, h1{
+#vid{
+    margin-left: 20rem;
+}
+
+#audio{
+    margin-left: 30rem;
+}
+
+.Resume{
+    color: rgb(17, 121, 86);
+}
+
+.Resume > h1{
+    
+    padding-left: 30rem;
+}
+
+.Resume > a{
+    
+    padding-left: 36rem;
     color: rgb(17, 121, 86);
 }
 
@@ -36,6 +60,21 @@ footer{
     background-color: rgb(12, 133, 92);
     padding-bottom: 3px;
     color: rgb(72, 177, 180);
+
+}
+
+footer > a{
+    padding-left: 19.2rem;
+}
+
+footer > h3{
+    padding-left: 40rem;
+    padding-top: 5px;
+    font-size: larger;
+}
+
+footer > p{
+    padding-left: 37rem;
 }
 
 .About{
